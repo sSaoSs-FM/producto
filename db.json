@@ -50,7 +50,7 @@
       "bandGarantia": 0,
       "numMeses": 0,
       "bandTablaPrecio": 0,
-      "bandExentoIVA": 0,
+      "bandExentoIVA": 1,
       "discriminante": "N"
     }
   ],
